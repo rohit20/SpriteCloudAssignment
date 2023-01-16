@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testng-results failed="0" passed="1" skipped="0" total="1">
+    <suite duration-ms="5368" name="io.cucumber.core.plugin.TestNGFormatter">
+        <test duration-ms="5368" name="io.cucumber.core.plugin.TestNGFormatter">
+            <class name="Unknown">
+                <test-method duration-ms="5158" finished-at="2023-01-15T13:14:58.616329400Z" name="This will verify the title of page" started-at="2023-01-15T13:14:53.449438900Z" status="PASS"/>
+            </class>
+        </test>
+    </suite>
+</testng-results>

@@ -1,0 +1,290 @@
+[FATAL] 2023-01-16 00:10:34.357 [main] Stepdefs - Setup executed...
+[INFO ] 2023-01-16 00:10:34.365 [main] Stepdefs - The Type of Automation is web
+[INFO ] 2023-01-16 00:10:36.333 [main] Stepdefs - Navigated to web url
+[INFO ] 2023-01-16 00:10:36.340 [main] Stepdefs - Test passed: Login feature :Page title matched.
+[INFO ] 2023-01-16 00:10:36.867 [main] Stepdefs - Navigated to dynamic id page
+[INFO ] 2023-01-16 00:10:36.873 [main] Stepdefs - Test passed: Login feature :Page title matched.
+[INFO ] 2023-01-16 00:10:36.909 [main] Stepdefs - Dynamic ID element is present
+[FATAL] 2023-01-16 00:10:37.928 [main] Stepdefs - Setup executed...
+[INFO ] 2023-01-16 00:10:37.928 [main] Stepdefs - The Type of Automation is web
+[INFO ] 2023-01-16 00:10:40.136 [main] Stepdefs - Navigated to web url
+[INFO ] 2023-01-16 00:10:40.142 [main] Stepdefs - Test passed: Login feature :Page title matched.
+[INFO ] 2023-01-16 00:10:40.666 [main] Stepdefs - Navigated to dynamic table page
+[INFO ] 2023-01-16 00:10:40.672 [main] Stepdefs - Test passed: Login feature :Page title matched.
+[INFO ] 2023-01-16 00:10:40.756 [main] Stepdefs - Value of chrome Cpu is 7.8%
+[INFO ] 2023-01-16 00:10:40.810 [main] Stepdefs - Value of chrome Cpu highlited is 7.8%
+[INFO ] 2023-01-16 00:10:40.810 [main] Stepdefs - Value of webtable is matched
+[FATAL] 2023-01-16 00:10:41.811 [main] Stepdefs - Setup executed...
+[INFO ] 2023-01-16 00:10:41.811 [main] Stepdefs - The Type of Automation is web
+[INFO ] 2023-01-16 00:10:43.330 [main] Stepdefs - Navigated to web url
+[INFO ] 2023-01-16 00:10:43.337 [main] Stepdefs - Test passed: Login feature :Page title matched.
+[INFO ] 2023-01-16 00:10:43.852 [main] Stepdefs - Navigated to Client Side Delay page
+[INFO ] 2023-01-16 00:10:43.858 [main] Stepdefs - Test passed: Login feature :Page title matched.
+[INFO ] 2023-01-16 00:10:43.921 [main] Stepdefs - Clicked on Triggering button
+[INFO ] 2023-01-16 00:10:43.921 [main] Stepdefs - Waiting for element to trigger
+[INFO ] 2023-01-16 00:10:58.956 [main] Stepdefs - Data gets populayed
+[FATAL] 2023-01-16 00:25:12.241 [main] Stepdefs - Setup executed...
+[INFO ] 2023-01-16 00:25:12.248 [main] Stepdefs - The Type of Automation is web
+[INFO ] 2023-01-16 00:25:14.038 [main] Stepdefs - Navigated to web url
+[INFO ] 2023-01-16 00:25:14.045 [main] Stepdefs - Test passed: Login feature :Page title matched.
+[INFO ] 2023-01-16 00:25:14.562 [main] Stepdefs - Navigated to dynamic id page
+[INFO ] 2023-01-16 00:25:14.568 [main] Stepdefs - Test passed: Login feature :Page title matched.
+[INFO ] 2023-01-16 00:25:14.604 [main] Stepdefs - Dynamic ID element is present
+[FATAL] 2023-01-16 00:25:15.629 [main] Stepdefs - Setup executed...
+[INFO ] 2023-01-16 00:25:15.630 [main] Stepdefs - The Type of Automation is web
+[INFO ] 2023-01-16 00:25:17.134 [main] Stepdefs - Navigated to web url
+[INFO ] 2023-01-16 00:25:17.139 [main] Stepdefs - Test passed: Login feature :Page title matched.
+[INFO ] 2023-01-16 00:25:17.661 [main] Stepdefs - Navigated to dynamic table page
+[INFO ] 2023-01-16 00:25:17.667 [main] Stepdefs - Test passed: Login feature :Page title matched.
+[INFO ] 2023-01-16 00:25:17.750 [main] Stepdefs - Value of chrome Cpu is 2.6%
+[INFO ] 2023-01-16 00:25:17.806 [main] Stepdefs - Value of chrome Cpu highlited is 2.6%
+[INFO ] 2023-01-16 00:25:17.806 [main] Stepdefs - Value of webtable is matched
+[FATAL] 2023-01-16 00:25:18.722 [main] Stepdefs - Setup executed...
+[INFO ] 2023-01-16 00:25:18.722 [main] Stepdefs - The Type of Automation is web
+[INFO ] 2023-01-16 00:25:20.714 [main] Stepdefs - Navigated to web url
+[INFO ] 2023-01-16 00:25:20.720 [main] Stepdefs - Test passed: Login feature :Page title matched.
+[INFO ] 2023-01-16 00:25:21.242 [main] Stepdefs - Navigated to Client Side Delay page
+[INFO ] 2023-01-16 00:25:21.247 [main] Stepdefs - Test passed: Login feature :Page title matched.
+[INFO ] 2023-01-16 00:25:21.312 [main] Stepdefs - Clicked on Triggering button
+[INFO ] 2023-01-16 00:25:21.312 [main] Stepdefs - Waiting for element to trigger
+[INFO ] 2023-01-16 00:25:36.368 [main] Stepdefs - Data gets populayed
+[FATAL] 2023-01-16 00:54:27.663 [main] Stepdefs - Setup executed...
+[INFO ] 2023-01-16 00:54:27.667 [main] Stepdefs - The Type of Automation is web
+[INFO ] 2023-01-16 00:54:29.425 [main] Stepdefs - Navigated to web url
+[INFO ] 2023-01-16 00:54:29.432 [main] Stepdefs - Test passed: Login feature :Page title matched.
+[INFO ] 2023-01-16 00:54:29.952 [main] Stepdefs - Navigated to dynamic id page
+[INFO ] 2023-01-16 00:54:29.959 [main] Stepdefs - Test passed: Login feature :Page title matched.
+[INFO ] 2023-01-16 00:54:29.997 [main] Stepdefs - Dynamic ID element is present
+[FATAL] 2023-01-16 00:54:31.974 [main] Stepdefs - Setup executed...
+[INFO ] 2023-01-16 00:54:31.974 [main] Stepdefs - The Type of Automation is web
+[INFO ] 2023-01-16 00:54:34.885 [main] Stepdefs - Navigated to web url
+[INFO ] 2023-01-16 00:54:34.891 [main] Stepdefs - Test passed: Login feature :Page title matched.
+[INFO ] 2023-01-16 00:54:35.421 [main] Stepdefs - Navigated to dynamic table page
+[INFO ] 2023-01-16 00:54:35.429 [main] Stepdefs - Test passed: Login feature :Page title matched.
+[INFO ] 2023-01-16 00:54:35.522 [main] Stepdefs - Value of chrome Cpu is 6.6%
+[INFO ] 2023-01-16 00:54:35.566 [main] Stepdefs - Value of chrome Cpu highlited is 6.6%
+[INFO ] 2023-01-16 00:54:35.567 [main] Stepdefs - Value of webtable is matched
+[FATAL] 2023-01-16 00:54:37.459 [main] Stepdefs - Setup executed...
+[INFO ] 2023-01-16 00:54:37.460 [main] Stepdefs - The Type of Automation is web
+[INFO ] 2023-01-16 00:54:39.233 [main] Stepdefs - Navigated to web url
+[INFO ] 2023-01-16 00:54:39.239 [main] Stepdefs - Test passed: Login feature :Page title matched.
+[INFO ] 2023-01-16 00:54:39.762 [main] Stepdefs - Navigated to Client Side Delay page
+[INFO ] 2023-01-16 00:54:39.767 [main] Stepdefs - Test passed: Login feature :Page title matched.
+[INFO ] 2023-01-16 00:54:39.834 [main] Stepdefs - Clicked on Triggering button
+[INFO ] 2023-01-16 00:54:39.834 [main] Stepdefs - Waiting for element to trigger
+[INFO ] 2023-01-16 00:54:54.880 [main] Stepdefs - Data gets populayed
+[FATAL] 2023-01-16 12:51:46.964 [main] Stepdefs - Setup executed...
+[INFO ] 2023-01-16 12:51:46.973 [main] Stepdefs - The Type of Automation is web
+[INFO ] 2023-01-16 12:51:52.943 [main] Stepdefs - Navigated to web url
+[INFO ] 2023-01-16 12:51:52.954 [main] Stepdefs - Test passed: Login feature :Page title matched.
+[INFO ] 2023-01-16 12:51:53.581 [main] Stepdefs - Navigated to dynamic id page
+[INFO ] 2023-01-16 12:51:53.591 [main] Stepdefs - Test passed: Login feature :Page title matched.
+[INFO ] 2023-01-16 12:51:53.636 [main] Stepdefs - Dynamic ID element is present
+[FATAL] 2023-01-16 12:51:54.998 [main] Stepdefs - Setup executed...
+[INFO ] 2023-01-16 12:51:54.999 [main] Stepdefs - The Type of Automation is web
+[FATAL] 2023-01-16 15:35:41.470 [main] Stepdefs - Setup executed...
+[INFO ] 2023-01-16 15:35:41.478 [main] Stepdefs - The Type of Automation is web
+[INFO ] 2023-01-16 15:35:50.678 [main] Stepdefs - Navigated to web url
+[INFO ] 2023-01-16 15:35:50.685 [main] Stepdefs - Test passed: Login feature :Page title matched.
+[INFO ] 2023-01-16 15:35:51.430 [main] Stepdefs - Navigated to dynamic id page
+[INFO ] 2023-01-16 15:35:51.435 [main] Stepdefs - Test passed: Login feature :Page title matched.
+[INFO ] 2023-01-16 15:35:51.470 [main] Stepdefs - Dynamic ID element is present
+[FATAL] 2023-01-16 15:35:52.528 [main] Stepdefs - Setup executed...
+[INFO ] 2023-01-16 15:35:52.528 [main] Stepdefs - The Type of Automation is web
+[INFO ] 2023-01-16 15:35:55.941 [main] Stepdefs - Navigated to web url
+[INFO ] 2023-01-16 15:35:55.949 [main] Stepdefs - Test passed: Login feature :Page title matched.
+[INFO ] 2023-01-16 15:35:56.489 [main] Stepdefs - Navigated to dynamic table page
+[INFO ] 2023-01-16 15:35:56.495 [main] Stepdefs - Test passed: Login feature :Page title matched.
+[INFO ] 2023-01-16 15:35:56.593 [main] Stepdefs - Value of chrome Cpu is 0.4%
+[INFO ] 2023-01-16 15:35:56.661 [main] Stepdefs - Value of chrome Cpu highlited is 0.4%
+[INFO ] 2023-01-16 15:35:56.661 [main] Stepdefs - Value of webtable is matched
+[FATAL] 2023-01-16 15:35:57.669 [main] Stepdefs - Setup executed...
+[INFO ] 2023-01-16 15:35:57.670 [main] Stepdefs - The Type of Automation is web
+[INFO ] 2023-01-16 15:36:03.251 [main] Stepdefs - Navigated to web url
+[INFO ] 2023-01-16 15:36:03.257 [main] Stepdefs - Test passed: Login feature :Page title matched.
+[INFO ] 2023-01-16 15:36:03.832 [main] Stepdefs - Navigated to Client Side Delay page
+[INFO ] 2023-01-16 15:36:03.837 [main] Stepdefs - Test passed: Login feature :Page title matched.
+[INFO ] 2023-01-16 15:36:03.899 [main] Stepdefs - Clicked on Triggering button
+[INFO ] 2023-01-16 15:36:03.899 [main] Stepdefs - Waiting for element to trigger
+[INFO ] 2023-01-16 15:36:18.950 [main] Stepdefs - Data gets populayed
+[FATAL] 2023-01-16 16:14:44.585 [main] Stepdefs - Setup executed...
+[INFO ] 2023-01-16 16:14:44.592 [main] Stepdefs - The Type of Automation is web
+[INFO ] 2023-01-16 16:14:48.252 [main] Stepdefs - Navigated to web url
+[INFO ] 2023-01-16 16:14:48.261 [main] Stepdefs - Test passed: Login feature :Page title matched.
+[INFO ] 2023-01-16 16:14:48.884 [main] Stepdefs - Navigated to dynamic id page
+[INFO ] 2023-01-16 16:14:48.891 [main] Stepdefs - Test passed: Login feature :Page title matched.
+[INFO ] 2023-01-16 16:14:48.925 [main] Stepdefs - Dynamic ID element is present
+[FATAL] 2023-01-16 16:14:49.979 [main] Stepdefs - Setup executed...
+[INFO ] 2023-01-16 16:14:49.980 [main] Stepdefs - The Type of Automation is web
+[INFO ] 2023-01-16 16:14:54.245 [main] Stepdefs - Navigated to web url
+[INFO ] 2023-01-16 16:14:54.252 [main] Stepdefs - Test passed: Login feature :Page title matched.
+[INFO ] 2023-01-16 16:14:54.769 [main] Stepdefs - Navigated to dynamic table page
+[INFO ] 2023-01-16 16:14:54.776 [main] Stepdefs - Test passed: Login feature :Page title matched.
+[INFO ] 2023-01-16 16:14:54.860 [main] Stepdefs - Value of chrome Cpu is 9.5%
+[INFO ] 2023-01-16 16:14:54.910 [main] Stepdefs - Value of chrome Cpu highlited is 9.5%
+[INFO ] 2023-01-16 16:14:54.911 [main] Stepdefs - Value of webtable is matched
+[FATAL] 2023-01-16 16:14:55.840 [main] Stepdefs - Setup executed...
+[INFO ] 2023-01-16 16:14:55.840 [main] Stepdefs - The Type of Automation is web
+[FATAL] 2023-01-16 16:44:09.277 [main] Stepdefs - Setup executed...
+[INFO ] 2023-01-16 16:44:09.282 [main] Stepdefs - The Type of Automation is web
+[INFO ] 2023-01-16 16:44:14.005 [main] Stepdefs - Navigated to web url
+[INFO ] 2023-01-16 16:44:14.014 [main] Stepdefs - Test passed: Login feature :Page title matched.
+[INFO ] 2023-01-16 16:44:14.542 [main] Stepdefs - Navigated to dynamic id page
+[INFO ] 2023-01-16 16:44:14.548 [main] Stepdefs - Test passed: Login feature :Page title matched.
+[INFO ] 2023-01-16 16:44:14.585 [main] Stepdefs - Dynamic ID element is present
+[FATAL] 2023-01-16 16:44:15.600 [main] Stepdefs - Setup executed...
+[INFO ] 2023-01-16 16:44:15.600 [main] Stepdefs - The Type of Automation is web
+[INFO ] 2023-01-16 16:44:21.284 [main] Stepdefs - Navigated to web url
+[INFO ] 2023-01-16 16:44:21.291 [main] Stepdefs - Test passed: Login feature :Page title matched.
+[INFO ] 2023-01-16 16:44:21.817 [main] Stepdefs - Navigated to dynamic table page
+[INFO ] 2023-01-16 16:44:21.824 [main] Stepdefs - Test passed: Login feature :Page title matched.
+[INFO ] 2023-01-16 16:44:21.906 [main] Stepdefs - Value of chrome Cpu is 3.8%
+[INFO ] 2023-01-16 16:44:21.965 [main] Stepdefs - Value of chrome Cpu highlited is 3.8%
+[INFO ] 2023-01-16 16:44:21.965 [main] Stepdefs - Value of webtable is matched
+[FATAL] 2023-01-16 16:44:22.947 [main] Stepdefs - Setup executed...
+[INFO ] 2023-01-16 16:44:22.948 [main] Stepdefs - The Type of Automation is web
+[INFO ] 2023-01-16 16:44:25.273 [main] Stepdefs - Navigated to web url
+[INFO ] 2023-01-16 16:44:25.280 [main] Stepdefs - Test passed: Login feature :Page title matched.
+[INFO ] 2023-01-16 16:44:25.805 [main] Stepdefs - Navigated to Client Side Delay page
+[INFO ] 2023-01-16 16:44:25.810 [main] Stepdefs - Test passed: Login feature :Page title matched.
+[INFO ] 2023-01-16 16:44:25.872 [main] Stepdefs - Clicked on Triggering button
+[INFO ] 2023-01-16 16:44:25.872 [main] Stepdefs - Waiting for element to trigger
+[INFO ] 2023-01-16 16:44:40.932 [main] Stepdefs - Data gets populayed
+[FATAL] 2023-01-16 16:56:22.680 [main] Stepdefs - Setup executed...
+[INFO ] 2023-01-16 16:56:22.686 [main] Stepdefs - The Type of Automation is web
+[INFO ] 2023-01-16 16:56:25.899 [main] Stepdefs - Navigated to web url
+[INFO ] 2023-01-16 16:56:25.909 [main] Stepdefs - Test passed: Login feature :Page title matched.
+[INFO ] 2023-01-16 16:56:26.425 [main] Stepdefs - Navigated to dynamic id page
+[INFO ] 2023-01-16 16:56:26.431 [main] Stepdefs - Test passed: Login feature :Page title matched.
+[INFO ] 2023-01-16 16:56:26.465 [main] Stepdefs - Dynamic ID element is present
+[FATAL] 2023-01-16 16:56:27.467 [main] Stepdefs - Setup executed...
+[INFO ] 2023-01-16 16:56:27.468 [main] Stepdefs - The Type of Automation is web
+[INFO ] 2023-01-16 16:56:29.974 [main] Stepdefs - Navigated to web url
+[INFO ] 2023-01-16 16:56:29.981 [main] Stepdefs - Test passed: Login feature :Page title matched.
+[INFO ] 2023-01-16 16:56:30.514 [main] Stepdefs - Navigated to dynamic table page
+[INFO ] 2023-01-16 16:56:30.522 [main] Stepdefs - Test passed: Login feature :Page title matched.
+[INFO ] 2023-01-16 16:56:30.610 [main] Stepdefs - Value of chrome Cpu is 7.5%
+[INFO ] 2023-01-16 16:56:30.667 [main] Stepdefs - Value of chrome Cpu highlited is 7.5%
+[INFO ] 2023-01-16 16:56:30.667 [main] Stepdefs - Value of webtable is matched
+[FATAL] 2023-01-16 16:56:31.582 [main] Stepdefs - Setup executed...
+[INFO ] 2023-01-16 16:56:31.583 [main] Stepdefs - The Type of Automation is web
+[INFO ] 2023-01-16 16:56:35.488 [main] Stepdefs - Navigated to web url
+[INFO ] 2023-01-16 16:56:35.495 [main] Stepdefs - Test passed: Login feature :Page title matched.
+[INFO ] 2023-01-16 16:56:36.292 [main] Stepdefs - Navigated to Client Side Delay page
+[INFO ] 2023-01-16 16:56:36.297 [main] Stepdefs - Test passed: Login feature :Page title matched.
+[INFO ] 2023-01-16 16:56:36.360 [main] Stepdefs - Clicked on Triggering button
+[INFO ] 2023-01-16 16:56:36.361 [main] Stepdefs - Waiting for element to trigger
+[INFO ] 2023-01-16 16:56:51.404 [main] Stepdefs - Data gets populayed
+[FATAL] 2023-01-16 17:39:22.923 [main] Stepdefs - Setup executed...
+[INFO ] 2023-01-16 17:39:22.931 [main] Stepdefs - The Type of Automation is web
+[INFO ] 2023-01-16 17:39:25.013 [main] Stepdefs - Navigated to web url
+[INFO ] 2023-01-16 17:39:25.022 [main] Stepdefs - Test passed: Login feature :Page title matched.
+[INFO ] 2023-01-16 17:39:25.536 [main] Stepdefs - Navigated to dynamic id page
+[INFO ] 2023-01-16 17:39:25.541 [main] Stepdefs - Test passed: Login feature :Page title matched.
+[INFO ] 2023-01-16 17:39:25.580 [main] Stepdefs - Dynamic ID element is present
+[FATAL] 2023-01-16 17:39:26.625 [main] Stepdefs - Setup executed...
+[INFO ] 2023-01-16 17:39:26.625 [main] Stepdefs - The Type of Automation is web
+[INFO ] 2023-01-16 17:39:27.774 [main] Stepdefs - Navigated to web url
+[FATAL] 2023-01-16 17:39:28.672 [main] Stepdefs - Setup executed...
+[INFO ] 2023-01-16 17:39:28.672 [main] Stepdefs - The Type of Automation is web
+[INFO ] 2023-01-16 17:39:29.662 [main] Stepdefs - Navigated to web url
+[FATAL] 2023-01-16 17:39:48.533 [main] Stepdefs - Setup executed...
+[INFO ] 2023-01-16 17:39:48.542 [main] Stepdefs - The Type of Automation is web
+[INFO ] 2023-01-16 17:39:52.098 [main] Stepdefs - Navigated to web url
+[INFO ] 2023-01-16 17:39:52.109 [main] Stepdefs - Test passed: Login feature :Page title matched.
+[INFO ] 2023-01-16 17:39:52.646 [main] Stepdefs - Navigated to dynamic id page
+[INFO ] 2023-01-16 17:39:52.654 [main] Stepdefs - Test passed: Login feature :Page title matched.
+[INFO ] 2023-01-16 17:39:52.693 [main] Stepdefs - Dynamic ID element is present
+[FATAL] 2023-01-16 17:39:54.720 [main] Stepdefs - Setup executed...
+[INFO ] 2023-01-16 17:39:54.721 [main] Stepdefs - The Type of Automation is web
+[INFO ] 2023-01-16 17:39:58.823 [main] Stepdefs - Navigated to web url
+[INFO ] 2023-01-16 17:39:58.832 [main] Stepdefs - Test passed: Login feature :Page title matched.
+[INFO ] 2023-01-16 17:39:59.415 [main] Stepdefs - Navigated to dynamic table page
+[INFO ] 2023-01-16 17:39:59.420 [main] Stepdefs - Test passed: Login feature :Page title matched.
+[INFO ] 2023-01-16 17:39:59.528 [main] Stepdefs - Value of chrome Cpu is 3.1%
+[INFO ] 2023-01-16 17:39:59.600 [main] Stepdefs - Value of chrome Cpu highlited is 3.1%
+[INFO ] 2023-01-16 17:39:59.600 [main] Stepdefs - Value of webtable is matched
+[FATAL] 2023-01-16 17:40:01.497 [main] Stepdefs - Setup executed...
+[INFO ] 2023-01-16 17:40:01.498 [main] Stepdefs - The Type of Automation is web
+[INFO ] 2023-01-16 17:40:11.518 [main] Stepdefs - Navigated to web url
+[INFO ] 2023-01-16 17:40:11.526 [main] Stepdefs - Test passed: Login feature :Page title matched.
+[INFO ] 2023-01-16 17:40:12.261 [main] Stepdefs - Navigated to Client Side Delay page
+[INFO ] 2023-01-16 17:40:12.266 [main] Stepdefs - Test passed: Login feature :Page title matched.
+[INFO ] 2023-01-16 17:40:12.336 [main] Stepdefs - Clicked on Triggering button
+[INFO ] 2023-01-16 17:40:12.337 [main] Stepdefs - Waiting for element to trigger
+[INFO ] 2023-01-16 17:40:27.390 [main] Stepdefs - Data gets populayed
+[FATAL] 2023-01-16 17:46:10.398 [main] Stepdefs - Setup executed...
+[INFO ] 2023-01-16 17:46:10.409 [main] Stepdefs - The Type of Automation is web
+[INFO ] 2023-01-16 17:46:12.702 [main] Stepdefs - Navigated to web url
+[INFO ] 2023-01-16 17:46:12.714 [main] Stepdefs - Test passed: Login feature :Page title matched.
+[INFO ] 2023-01-16 17:46:13.241 [main] Stepdefs - Navigated to dynamic id page
+[INFO ] 2023-01-16 17:46:13.248 [main] Stepdefs - Test passed: Login feature :Page title matched.
+[INFO ] 2023-01-16 17:46:13.289 [main] Stepdefs - Dynamic ID element is present
+[FATAL] 2023-01-16 17:46:15.221 [main] Stepdefs - Setup executed...
+[INFO ] 2023-01-16 17:46:15.228 [main] Stepdefs - The Type of Automation is web
+[FATAL] 2023-01-16 17:46:15.249 [main] Stepdefs - Setup executed...
+[INFO ] 2023-01-16 17:46:15.251 [main] Stepdefs - The Type of Automation is web
+[INFO ] 2023-01-16 17:46:16.521 [main] Stepdefs - Navigated to web url
+[INFO ] 2023-01-16 17:46:16.529 [main] Stepdefs - Test passed: Login feature :Page title matched.
+[INFO ] 2023-01-16 17:46:17.062 [main] Stepdefs - Navigated to dynamic table page
+[INFO ] 2023-01-16 17:46:17.068 [main] Stepdefs - Test passed: Login feature :Page title matched.
+[INFO ] 2023-01-16 17:46:17.142 [main] Stepdefs - Value of chrome Cpu is 5.1%
+[INFO ] 2023-01-16 17:46:17.192 [main] Stepdefs - Value of chrome Cpu highlited is 5.1%
+[INFO ] 2023-01-16 17:46:17.192 [main] Stepdefs - Value of webtable is matched
+[INFO ] 2023-01-16 17:46:17.639 [main] Stepdefs - Navigated to web url
+[INFO ] 2023-01-16 17:46:17.650 [main] Stepdefs - Test passed: Login feature :Page title matched.
+[INFO ] 2023-01-16 17:46:18.177 [main] Stepdefs - Navigated to dynamic id page
+[INFO ] 2023-01-16 17:46:18.184 [main] Stepdefs - Test passed: Login feature :Page title matched.
+[INFO ] 2023-01-16 17:46:18.221 [main] Stepdefs - Dynamic ID element is present
+[FATAL] 2023-01-16 17:46:19.081 [main] Stepdefs - Setup executed...
+[INFO ] 2023-01-16 17:46:19.082 [main] Stepdefs - The Type of Automation is web
+[FATAL] 2023-01-16 17:46:20.187 [main] Stepdefs - Setup executed...
+[INFO ] 2023-01-16 17:46:20.188 [main] Stepdefs - The Type of Automation is web
+[INFO ] 2023-01-16 17:46:22.072 [main] Stepdefs - Navigated to web url
+[INFO ] 2023-01-16 17:46:22.079 [main] Stepdefs - Test passed: Login feature :Page title matched.
+[INFO ] 2023-01-16 17:46:22.261 [main] Stepdefs - Navigated to web url
+[INFO ] 2023-01-16 17:46:22.268 [main] Stepdefs - Test passed: Login feature :Page title matched.
+[INFO ] 2023-01-16 17:46:22.655 [main] Stepdefs - Navigated to dynamic table page
+[INFO ] 2023-01-16 17:46:22.661 [main] Stepdefs - Test passed: Login feature :Page title matched.
+[INFO ] 2023-01-16 17:46:22.773 [main] Stepdefs - Value of chrome Cpu is 1.7%
+[INFO ] 2023-01-16 17:46:22.844 [main] Stepdefs - Navigated to Client Side Delay page
+[INFO ] 2023-01-16 17:46:22.850 [main] Stepdefs - Value of chrome Cpu highlited is 1.7%
+[INFO ] 2023-01-16 17:46:22.850 [main] Stepdefs - Value of webtable is matched
+[INFO ] 2023-01-16 17:46:22.852 [main] Stepdefs - Test passed: Login feature :Page title matched.
+[INFO ] 2023-01-16 17:46:22.974 [main] Stepdefs - Clicked on Triggering button
+[INFO ] 2023-01-16 17:46:22.974 [main] Stepdefs - Waiting for element to trigger
+[FATAL] 2023-01-16 17:46:24.799 [main] Stepdefs - Setup executed...
+[INFO ] 2023-01-16 17:46:24.799 [main] Stepdefs - The Type of Automation is web
+[INFO ] 2023-01-16 17:46:28.048 [main] Stepdefs - Navigated to web url
+[INFO ] 2023-01-16 17:46:28.054 [main] Stepdefs - Test passed: Login feature :Page title matched.
+[INFO ] 2023-01-16 17:46:28.606 [main] Stepdefs - Navigated to Client Side Delay page
+[INFO ] 2023-01-16 17:46:28.611 [main] Stepdefs - Test passed: Login feature :Page title matched.
+[INFO ] 2023-01-16 17:46:28.676 [main] Stepdefs - Clicked on Triggering button
+[INFO ] 2023-01-16 17:46:28.676 [main] Stepdefs - Waiting for element to trigger
+[INFO ] 2023-01-16 17:46:38.061 [main] Stepdefs - Data gets populayed
+[INFO ] 2023-01-16 17:46:43.729 [main] Stepdefs - Data gets populayed
+[FATAL] 2023-01-16 17:48:26.254 [main] Stepdefs - Setup executed...
+[INFO ] 2023-01-16 17:48:26.260 [main] Stepdefs - The Type of Automation is web
+[INFO ] 2023-01-16 17:48:29.545 [main] Stepdefs - Navigated to web url
+[INFO ] 2023-01-16 17:48:29.553 [main] Stepdefs - Test passed: Login feature :Page title matched.
+[INFO ] 2023-01-16 17:48:30.465 [main] Stepdefs - Navigated to dynamic id page
+[INFO ] 2023-01-16 17:48:30.471 [main] Stepdefs - Test passed: Login feature :Page title matched.
+[INFO ] 2023-01-16 17:48:30.504 [main] Stepdefs - Dynamic ID element is present
+[FATAL] 2023-01-16 17:48:31.511 [main] Stepdefs - Setup executed...
+[INFO ] 2023-01-16 17:48:31.512 [main] Stepdefs - The Type of Automation is web
+[INFO ] 2023-01-16 17:48:33.343 [main] Stepdefs - Navigated to web url
+[INFO ] 2023-01-16 17:48:33.350 [main] Stepdefs - Test passed: Login feature :Page title matched.
+[INFO ] 2023-01-16 17:48:33.882 [main] Stepdefs - Navigated to dynamic table page
+[INFO ] 2023-01-16 17:48:33.887 [main] Stepdefs - Test passed: Login feature :Page title matched.
+[INFO ] 2023-01-16 17:48:33.994 [main] Stepdefs - Value of chrome Cpu is 7.5%
+[INFO ] 2023-01-16 17:48:34.063 [main] Stepdefs - Value of chrome Cpu highlited is 7.5%
+[INFO ] 2023-01-16 17:48:34.064 [main] Stepdefs - Value of webtable is matched
+[FATAL] 2023-01-16 17:48:35.027 [main] Stepdefs - Setup executed...
+[INFO ] 2023-01-16 17:48:35.028 [main] Stepdefs - The Type of Automation is web
+[INFO ] 2023-01-16 17:48:36.394 [main] Stepdefs - Navigated to web url
+[INFO ] 2023-01-16 17:48:36.407 [main] Stepdefs - Test passed: Login feature :Page title matched.
+[INFO ] 2023-01-16 17:48:37.150 [main] Stepdefs - Navigated to Client Side Delay page
+[INFO ] 2023-01-16 17:48:37.157 [main] Stepdefs - Test passed: Login feature :Page title matched.
+[INFO ] 2023-01-16 17:48:37.218 [main] Stepdefs - Clicked on Triggering button
+[INFO ] 2023-01-16 17:48:37.218 [main] Stepdefs - Waiting for element to trigger
+[INFO ] 2023-01-16 17:48:52.291 [main] Stepdefs - Data gets populayed

@@ -1,0 +1,9 @@
+com\spritecloud\stepdefs\BaseTest.class
+com\spritecloud\pageobjects\ClientSideDelayPage.class
+com\spritecloud\pageobjects\DynamicTablePage.class
+com\spritecloud\stepdefs\Stepdefs.class
+com\spritecloud\testRunner\TestRun.class
+com\spritecloud\utils\ReadConfig.class
+com\spritecloud\pageobjects\DynamicIdPage.class
+com\spritecloud\pageobjects\HomePage.class
+com\spritecloud\testRunner\UserOperationsRun.class

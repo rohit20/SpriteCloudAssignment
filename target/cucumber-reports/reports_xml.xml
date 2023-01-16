@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testng-results failed="0" passed="3" skipped="0" total="3">
+    <suite duration-ms="28433" name="io.cucumber.core.plugin.TestNGFormatter">
+        <test duration-ms="28433" name="io.cucumber.core.plugin.TestNGFormatter">
+            <class name="Automating UI Automation Playground">
+                <test-method duration-ms="6500" finished-at="2023-01-16T12:18:30.701437400Z" name="Verify the Dynamic ID functionality of Application" started-at="2023-01-16T12:18:24.191553Z" status="PASS"/>
+                <test-method duration-ms="3486" finished-at="2023-01-16T12:18:34.203415400Z" name="Verify the Dynamic Web Table functionality of Application" started-at="2023-01-16T12:18:30.713626700Z" status="PASS"/>
+                <test-method duration-ms="18269" finished-at="2023-01-16T12:18:52.485427700Z" name="Verify the Client Side Delay functionality of Application" started-at="2023-01-16T12:18:34.213376900Z" status="PASS"/>
+            </class>
+        </test>
+    </suite>
+</testng-results>
