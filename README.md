@@ -6,7 +6,7 @@ Given :
   ○ http://www.uitestingplayground.com/ (UI)
   ○ https://petstore.swagger.io/ (API)
 2. Required scripting language: Java
-3. Required testing tool: Selenium, Cucumber, Maven, TestNg, RestAssured
+3. Required testing tool: Selenium, Cucumber, Maven, TestNg, RestAssured.log4j
 4. CI platform: Jenkins
 5. You have an account on Calliope.pro : Yes Created
 
@@ -38,7 +38,7 @@ When
 
 5. You add a results folder to the repository, including a result report (HTML,json,xml,etc)
 
---> Yes all three formats are available 
+--> Yes all three formats are available with logger in logs folder
 
 6. Manage to upload the test results to Calliope.pro and share a link to the results.
 
